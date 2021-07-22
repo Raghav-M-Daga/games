@@ -1,4 +1,4 @@
-#rock paper scissors
+#rock paper scissors by Raghav M Daga
 import random
 list = ["r","p","s"]
 comp = 0
