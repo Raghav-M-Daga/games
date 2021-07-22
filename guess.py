@@ -1,4 +1,5 @@
-# Guess the number
+# Guess the number by Raghav M Daga
+
 print("This number is between 0 and 100")
 import random
 ran = int(random.randint(0,100))
